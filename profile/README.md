@@ -1,6 +1,4 @@
-# Code Inc.
-
-## About us
+# About us
 
 At Code Inc. we create custom made software with love and and passion for small and big businesses. Our programs are original, innovative and user-friendly. They are built to simplify the lives of their users.
 
